@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffc1,100:7a00ff&height=200&section=header&text=MAMUT&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="assets/header.svg" width="100%" />
 </p>
 
 <p align="center">
